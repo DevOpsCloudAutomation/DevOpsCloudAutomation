@@ -11,6 +11,7 @@ I'm very much passionate about learning new tools and technologies and sharing k
 ### LinkedIn
 **https://www.linkedin.com/in/pavan-kumar-k-j-107742154**
 
-### Gmail\**Pavankumarkj347@Gmail.com**
+### Gmail
+**Pavankumarkj347@Gmail.com**
 
 # Keep Learning - Keep Sharing..!!
