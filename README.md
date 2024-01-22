@@ -1,8 +1,7 @@
 
 ## Hi Everyone, Welcome to My GitHub Profile
 
-Currently I am working as a Cloud DevOps Engineer.
-
+Currently I am working as a Cloud DevOps Engineer.\
 I'm very much passionate about learning new tools and technologies and sharing knowledge.
 
 ### Follow My Youtube Channel for Cloud and DevOps Tools and Technologies Videos.
