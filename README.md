@@ -1,8 +1,7 @@
 
 ## Hi Everyone,<br/>Welcome to My GitHub
 
-### Currently I am Working as a Cloud DevOps Engineer.
-### I'm Very Much Passionate in Learning New Tools and Technologies and Sharing Knowledge.
+### Currently I am Working as a Cloud DevOps Engineer.<br/>I'm Very Much Passionate in Learning New Tools and Technologies and Sharing Knowledge.
 
 ### Follow My Youtube Channel for Cloud and DevOps Tools and Technologies Videos.<br/>**https://www.youtube.com/@DevOpsCloudAutomation**
 ### 30,000+ LinkedIn Followers.
